@@ -1,5 +1,5 @@
 { 
-   "licenseType" : "CC BY-SA", 
+   "licenseType" : "CC BY-NC-SA", 
    "creatorName" : "SupaRioAmateur", 
    "packageName" : "SupaClothPhysics", 
    "includeVersionsInReferences" : "true", 
@@ -7,7 +7,7 @@
    "credits" : "", 
    "instructions" : "", 
    "promotionalLink" : "https://github.com/SupaRioAmateur/SupaClothPhysics", 
-   "programVersion" : "1.19.0.5", 
+   "programVersion" : "1.19.2.2", 
    "contentList" : [ 
       "Custom\\Scripts\\SupaRioAmateur\\SupaClothPhysics\\SupaClothPhysics.cs"
    ], 

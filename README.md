@@ -1,5 +1,6 @@
 # ClothPhysicsPlugin
 Automatically apply additional behaviors when cloth item are on or off
+
 ## What you will need
 
 - [Visual Studio Code](https://code.visualstudio.com/) to edit your plugins
