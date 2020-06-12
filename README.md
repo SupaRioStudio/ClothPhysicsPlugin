@@ -1,4 +1,4 @@
-# ClothPhysicsPlugin
+# SupaClothPhysics
 Automatically apply additional behaviors when cloth item are on or off
 
 ## What you will need
